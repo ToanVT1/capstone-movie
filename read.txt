@@ -1,0 +1,19 @@
+1. Deploy (v)
+npm run build
+cai chung: .editorconfig
+
+tren web build chon thu muc dist
+2. Cai thu vien
+npm i axios react-router-dom
+-axios: goi api
+- react-router-dom: chuyen trang
+- Css: taiwindscc, style-component, styleX, emotion,...
+- Library UI: antd, material-ui, charaka-ui, radix, 
+- Manage State: Redux, Zustand, Recoil, MobX, ...
+- Serve State: RTK Query, React-Query...
+
+
+
+
+
+
