@@ -12,6 +12,13 @@ npm i axios react-router-dom
 - Manage State: Redux, Zustand, Recoil, MobX, ...
 - Serve State: RTK Query, React-Query...
 
+- Function JS
++ Khong su dung dc Hooks
+
+- Custom Hooks: 
++ Tuan thu moi quy tac khi su dung Hooks
++ Function ma trong do co su dung dc Hooks
+
 
 
 
